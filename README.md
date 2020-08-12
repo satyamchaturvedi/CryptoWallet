@@ -1,2 +1,2 @@
 # CryptoWallet
-Blockchain wallet App using Ethereum
+Blockchain wallet App using Ethereum.
